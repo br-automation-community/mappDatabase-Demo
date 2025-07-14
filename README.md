@@ -6,13 +6,13 @@
 
 <a name="Introduction"></a>
 ## Introduction
-This is a demo application for a simple recipe managment with mappDatabase. It is not and official B&R product. See the [WIKI](https://github.com/br-automation-com/mappDatabase-Demo/wiki) for a detailed guide how to setup different SQL servers. 
+This is a demo application for a simple recipe managment with mappDatabase. It is not and official B&R product. See the [WIKI](https://github.com/br-automation-community/mappDatabase-Demo/wiki) for a detailed guide how to setup different SQL servers. 
 
-![](https://github.com/br-automation-com/mappDatabase-Demo/blob/main/Wiki/screenshot.png)
+![](https://github.com/br-automation-community/mappDatabase-Demo/blob/main/Wiki/screenshot.png)
 
 <a name="Script"></a>
 ## Python script changes
-This sample also includes a customized version of the Python script used to connect to the database server. The script is fully compatible with the B&R script. See Automation Studio help (e046127f-e239-4f17-bd17-3ae889dac782) and the [WIKI](https://github.com/br-automation-com/mappDatabase-Demo/wiki) for more details how to use the script.
+This sample also includes a customized version of the Python script used to connect to the database server. The script is fully compatible with the B&R script. See Automation Studio help (e046127f-e239-4f17-bd17-3ae889dac782) and the [WIKI](https://github.com/br-automation-community/mappDatabase-Demo/wiki) for more details how to use the script.
 
 #### The script changes include:
 - Added more and detailed error messages
